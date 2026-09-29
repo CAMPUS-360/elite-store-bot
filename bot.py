@@ -6,7 +6,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.utils import executor
 
 # --- CONFIGURATION ---
-API_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Yahan apna BotFather wala token daal dena
+API_TOKEN = "8838714463:AAGG4spzF68PJQVeEcxZ_d5dF6G7bBnyIyY"
 ADMIN_ID = 7812593375  # Teri Admin ID set hai
 
 USDT_ADDRESS = "TPdV8QRBQqFis8BnH4mFrFvRYensZzJrJH"
